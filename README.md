@@ -19,16 +19,16 @@ element it rotates on itself again. The priority system is ascending, which mean
   
 * Here is a demonstration for How items are arranged in queue, and adding a new item
 
-![](Figures/Image1)
+![](Figures/Image1.png)
 
-![](Figures/Image2)
+![](Figures/Image2.png)
 
 ## Main Flows
 ### Error Handling
 
 * The Following is a flow chart showing the Error handling operation in the main code:
 
-![Flowchart showing error handling operation](Figures/Image3)
+![Flowchart showing error handling operation](Figures/Image3.jpg)
 
 
 ### Main Operation
@@ -36,7 +36,7 @@ element it rotates on itself again. The priority system is ascending, which mean
 * The following is a flowchart that shows the main operation of the code, assuming no errors happened and all input entered
 SeqNumBits, WinSize, InitSeq, PacketsID are all valid:
 
-![Flowchart showing main program operations](Figures/Image4)
+![Flowchart showing main program operations](Figures/Image4.jpg)
 
 ## Discussing The main program main points
 
